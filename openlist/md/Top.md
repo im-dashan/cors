@@ -1,41 +1,12 @@
-<div>
-<style>
-    .badge {
-        display: inline-flex;
-        border-radius: 4px;
-        font-family: Arial, sans-serif;
-        font-size: 10px;
-        overflow: hidden;
-        margin: 5px;
-    }
-    .color {
-        background-color: #5C5C5C;
-        color: white;
-        padding: 4px 6px;
-    }
-    .color1 {
-        background-color: #4DC71F;
-        color: white;
-        padding: 4px 6px;
-    }
-    .color2 {
-        background-color: #F48041;
-        color: white;
-        padding: 4px 6px;
-    }
-</style>
-<div>
-    <a href="https://cors.iasmr.uk/im-dashan/Notes/refs/heads/main/Other/text/Data.md">
-        <div class="badge">
-            <div class="color">内容更新预告</div>
-            <div class="color1">更新中...</div>
-        </div>
-    </a>
-    <a href="https://cors.iasmr.uk/im-dashan/Notes/refs/heads/main/Other/text/Release.md">
-        <div class="badge">
-            <div class="color">维护日志</div>
-            <div class="color2">运行中...</div>
-        </div>
-    </a>
-</div>
+<div align="center">
+<a href="https://www.iasmr.org">
+  <img width="100px" alt="logo" src="https://cors.12376899.xyz/cors/refs/heads/main/openlist/logo/asmr.svg"/>
+</a>
+<p>🎵欢迎来到 ASMR 助眠频道，请佩戴好耳机！</p>
+<a href="mailto:help@iasmr.org?subject=你好&body=这是一封测试邮件">
+  <img src="https://img.shields.io/badge/有问题？我们一起解决-help%40iasmr.org-50B87C?style=flat-square" alt="联系我们">
+</a>
+<a href="https://cors.iasmr.uk/im-dashan/Notes/refs/heads/main/Other/text/About.md">
+  <img src="https://img.shields.io/badge/获取账号解锁资源-为什么？-9E7DE1?style=flat-square" alt="账号获取">
+</a>
 </div>
