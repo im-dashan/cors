@@ -4,7 +4,7 @@
 
 ### 如何获取账号?
 
-发送邮件至：[**info@iasmr.org**](mailto:help@iasmr.org?subject=获取账号&body=获取账号)
+发送邮件至：[**info@iasmr.org**](mailto:info@iasmr.org?subject=获取账号&body=获取账号)
 
 <br>
 
