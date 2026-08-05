@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.iasmr.org">
-<img width="100px" src="https://cors.12376899.xyz/cors/refs/heads/main/openlist/logo/asmr.svg">
+<img width="100px" src="https://image.12376898.xyz/openlist/asmr.svg">
 </a>
 <br>
 <a href="https://www.iasmr.org">
