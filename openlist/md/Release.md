@@ -1,3 +1,10 @@
+<div align="center">
+<a href="https://www.iasmr.org">
+<img width="100px" src="https://image.12376898.xyz/openlist/asmr.svg">
+</a>
+</div>
+
+
 ```
 2026/06/09
 更新nginx到1.30.2
